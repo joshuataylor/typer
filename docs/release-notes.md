@@ -4,6 +4,30 @@
 
 ### Internal
 
+* ⬆ Bump ruff from 0.12.9 to 0.12.10. PR [#1280](https://github.com/fastapi/typer/pull/1280) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#1281](https://github.com/fastapi/typer/pull/1281) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
+* ⬆ Update pytest-sugar requirement from <1.1.0,>=0.9.4 to >=0.9.4,<1.2.0. PR [#1279](https://github.com/fastapi/typer/pull/1279) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
+## 0.16.1
+
+### Fixes
+
+* 🐛 Avoid printing additional output with `no_args_is_help=True` and Click 8.2. PR [#1278](https://github.com/fastapi/typer/pull/1278) by [@svlandeg](https://github.com/svlandeg).
+
+### Docs
+
+* 📝 Remove duplicated line in `environment-variables.md`. PR [#1277](https://github.com/fastapi/typer/pull/1277) by [@neirzhei](https://github.com/neirzhei).
+* 📝 Fix reference to `count` parameter in the documentation. PR [#1201](https://github.com/fastapi/typer/pull/1201) by [@PokkaKiyo](https://github.com/PokkaKiyo).
+
+### Internal
+
+* ⬆ Bump ruff from 0.11.13 to 0.12.9. PR [#1276](https://github.com/fastapi/typer/pull/1276) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#1247](https://github.com/fastapi/typer/pull/1247) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
+* ⬆ Bump actions/checkout from 4 to 5. PR [#1271](https://github.com/fastapi/typer/pull/1271) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump mkdocs-macros-plugin from 1.3.7 to 1.3.9. PR [#1272](https://github.com/fastapi/typer/pull/1272) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump tiangolo/latest-changes from 0.3.2 to 0.4.0. PR [#1265](https://github.com/fastapi/typer/pull/1265) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ Bump pillow from 11.2.1 to 11.3.0. PR [#1249](https://github.com/fastapi/typer/pull/1249) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#1206](https://github.com/fastapi/typer/pull/1206) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
 * ⬆ Bump pillow from 11.1.0 to 11.2.1. PR [#1198](https://github.com/fastapi/typer/pull/1198) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump cairosvg from 2.7.1 to 2.8.2. PR [#1226](https://github.com/fastapi/typer/pull/1226) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump ruff from 0.11.6 to 0.11.13. PR [#1241](https://github.com/fastapi/typer/pull/1241) by [@dependabot[bot]](https://github.com/apps/dependabot).
